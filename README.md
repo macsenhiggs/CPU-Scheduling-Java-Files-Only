@@ -17,8 +17,6 @@ This project is a comparative analysis of six CPU scheduling algorithms implemen
 - `Scheduler.java` – Contains logic for each of the six scheduling algorithms
 - `CSVWriter.java` – Utility class for outputting test results to CSV files
 - `Execute.java` – Main driver that runs simulations and aggregates results
-- `/results/` – Folder containing CSV output from each test
-- `/figures/` – Box plots generated via R (using `ggplot2`)
 
 ## 📊 Testing Strategy
 
